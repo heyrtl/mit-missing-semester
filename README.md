@@ -23,7 +23,7 @@ Got stuck on exercise 9 for an hour and exercise 10 for 2 hours. Learned that Ma
 - Wrote bash function marco and polo to save working directory and recall back to it on execution of them respectively.
 
 ## What I Learned
-- 
+- Files execute in child process, functions execute globally.
 - 
 - 
 
