@@ -31,3 +31,147 @@ Got stuck on exercise 9 for an hour and exercise 10 for 2 hours. Learned that Ma
 -u flag sort last access. so we should use -t flag for last edited sorting. 
 
 ---
+
+# MIT Missing Semester - Lecture 3
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 4
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 5
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 6
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 7
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 8
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 9
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 10
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
+
+# MIT Missing Semester - Lecture 11
+
+## Exercises Completed
+- 
+- 
+- 
+
+## What I Learned
+-  
+- 
+- 
+
+## Notes
+
+--- 
