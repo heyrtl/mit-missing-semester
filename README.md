@@ -24,7 +24,7 @@ Got stuck on exercise 9 for an hour and exercise 10 for 2 hours. Learned that Ma
 
 ## What I Learned
 - Files execute in child process, functions execute globally.
-- 
+- Scripts can't be sourced like functions.
 - 
 
 ## Notes
