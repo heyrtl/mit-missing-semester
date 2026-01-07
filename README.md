@@ -20,7 +20,7 @@ Got stuck on exercise 9 for an hour and exercise 10 for 2 hours. Learned that Ma
 
 ## Exercises Completed
 - Created Shell Script ls.sh that lists all files (incl. hidden) in a long format with human readable size, modification recency order, and colorized output.
-- Wrote bash function marco and polo to save working directory and recall back to it on execution of them respectively.
+- Wrote bash functions `marco` and `polo` to save working directory and recall back to it on execution of them respectively.
 
 ## What I Learned
 - Files execute in child process, functions execute globally.
