@@ -40,7 +40,7 @@ Got stuck on exercise 9 for an hour and exercise 10 for 2 hours. Learned that Ma
 - 
 
 ## What I Learned
--  
+-  Usage of Vim Editor
 - 
 - 
 
