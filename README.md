@@ -28,7 +28,7 @@ Got stuck on exercise 9 for an hour and exercise 10 for 2 hours. Learned that Ma
 - Use of find command
 
 ## Notes
--u flag sort last access. so we should use -t flag for last edited sorting. Both are used with ls
+-u flag sort last access. so we should use -t flag for last edited sorting. Both are used with `ls` command.
 
 ---
 
